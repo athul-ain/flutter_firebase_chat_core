@@ -656,7 +656,7 @@ PODS:
     - Firebase/Auth (= 10.9.0)
     - firebase_core
     - Flutter
-  - firebase_core (2.13.0):
+  - firebase_core (3.2.0):
     - Firebase/CoreOnly (= 10.9.0)
     - Flutter
   - firebase_storage (11.2.1):
